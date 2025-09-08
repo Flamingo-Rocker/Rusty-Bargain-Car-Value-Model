@@ -78,10 +78,9 @@ If **lowest error** is paramount and you can tolerate higher prediction latency,
 ```
 rusty-bargain-car-value-model/
 ├── notebooks/ <- Final cleaned Jupyter notebook
-├── notebooks_archive/ <- Raw/working notebook (optional)
-├── data/ <- Data source or pointer to source
+├── data/ <- Data source
 ├── requirements.txt <- Dependencies
-├── LICENSE <- MIT (or your selection)
+├── LICENSE <- MIT
 └── README.md <- This file
 ```
 
